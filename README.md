@@ -1,6 +1,6 @@
 # SnO₂WMaN
 
-- :ireland: _**Internet Explorer**_
+- :eyes: _**Internet Explorer**_
 - :neckbeard: _NERD_
 - :middle_finger: Twitter Junkie
 
