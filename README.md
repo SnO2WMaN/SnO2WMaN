@@ -11,21 +11,15 @@
 
 ## :globe_with_meridians: Social
 
-|                      |            |                                                          |
-| -------------------- | ---------- | -------------------------------------------------------- |
-| :dove:               | Twitter    | [@SnO2WMaN](https://twitter.com/SnO2WMaN)                |
-| :computer:           | GitHub     | [@SnO2WMaN](https://github.com/SnO2WMaN)                 |
-| :bookmark_tabs:      | Scrapbox   | [/sno2wman](https://scrapbox.io/sno2wman/)               |
-| :package:            | npm        | [sno2wman](https://www.npmjs.com/~sno2wman)              |
-| :headphones:         | Spotify    | [sno2wman](https://open.spotify.com/user/sno2wman)       |
-| :cloud:              | Soundcloud | [sno2wman](https://soundcloud.com/sno2wman)              |
-| :radio:              | Last.fm    | [SnO2WMaN](https://www.last.fm/user/SnO2WMaN)            |
-| :tv:                 | Annict     | [sno2wman](https://annict.jp/@SnO2WMaN)                  |
-| :video_game:         | Steam      | [SnO2WMaN](https://steamcommunity.com/id/SnO2WMaN)       |
-| :telephone_receiver: | Discord    | [SnO2WMaN#9459](discord:SnO2WMaN#9459)                   |
-| :art:                | pixiv      | [31358190](https://www.pixiv.net/member.php?id=31358190) |
-| :satellite:          | Twitch     | [sno2wman](https://www.twitch.tv/sno2wman)               |
-| :green_book:         | Bookmeter  | [1011664](https://bookmeter.com/users/1011664)           |
+|              |           |                                                          |                      |            |                                             |
+| ------------ | --------- | -------------------------------------------------------- | -------------------- | ---------- | ------------------------------------------- |
+| :dove:       | Twitter   | [@SnO2WMaN](https://twitter.com/SnO2WMaN)                | :bookmark_tabs:      | Scrapbox   | [/sno2wman](https://scrapbox.io/sno2wman/)  |
+| :computer:   | GitHub    | [@SnO2WMaN](https://github.com/SnO2WMaN)                 | :package:            | npm        | [sno2wman](https://www.npmjs.com/~sno2wman) |
+| :headphones: | Spotify   | [sno2wman](https://open.spotify.com/user/sno2wman)       | :cloud:              | Soundcloud | [sno2wman](https://soundcloud.com/sno2wman) |
+| :radio:      | Last.fm   | [SnO2WMaN](https://www.last.fm/user/SnO2WMaN)            | :tv:                 | Annict     | [sno2wman](https://annict.jp/@SnO2WMaN)     |
+| :video_game: | Steam     | [SnO2WMaN](https://steamcommunity.com/id/SnO2WMaN)       | :telephone_receiver: | Discord    | [SnO2WMaN#9459](discord:SnO2WMaN#9459)      |
+| :art:        | pixiv     | [31358190](https://www.pixiv.net/member.php?id=31358190) | :satellite:          | Twitch     | [sno2wman](https://www.twitch.tv/sno2wman)  |
+| :green_book: | Bookmeter | [1011664](https://bookmeter.com/users/1011664)           | :coffee:             | Ko-fi      | [sno2wman](https://ko-fi.com/sno2wman)      |
 
 ## :headphones: Listening
 
