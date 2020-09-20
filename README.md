@@ -1,8 +1,8 @@
 <h1>SnO<sub>2</sub>WMaN</h1>
 
-### [#NowListeing](https://github.com/SnO2WMaN-HQ/last.fm-badge)
+### [#NowListening](https://github.com/SnO2WMaN-HQ/last.fm-badge)
 
-[![Listen](https://last-fm-badge.vercel.app/api)](https://www.last.fm/user/SnO2WMaN)
+[![Listen](https://last-fm-badge.vercel.app/api?period=7day)](https://www.last.fm/user/SnO2WMaN)
 
 ---
 
