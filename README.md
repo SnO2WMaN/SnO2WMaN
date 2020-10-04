@@ -2,7 +2,7 @@
 
 ### [#NowListening](https://github.com/SnO2WMaN-HQ/last.fm-badge)
 
-[![Listen](https://last-fm-badge.vercel.app/api?period=7day)](https://www.last.fm/user/SnO2WMaN)
+[![Listen](https://last-fm-badge.sno2wman.vercel.app/api?period=7day)](https://www.last.fm/user/SnO2WMaN)
 
 ---
 
