@@ -1,6 +1,6 @@
 <h1>SnO<sub>2</sub>WMaN</h1>
 
-[![Listen](./vol.3.gif)](https://sno2wman.dev/)
+[![Listen](./vol.4.gif)](https://sno2wman.dev/)
 
 ### [#NowListening](https://github.com/SnO2WMaN-HQ/last.fm-badge)
 
