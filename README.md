@@ -1,9 +1,1 @@
-<h1>SnO<sub>2</sub>WMaN</h1>
-
-### [#NowListening](https://github.com/SnO2WMaN-HQ/last.fm-badge)
-
-[![Listen](https://last-fm-badge.sno2wman.vercel.app/api?period=7day)](https://www.last.fm/user/SnO2WMaN)
-
----
-
-[![GitHub](https://img.shields.io/github/license/SnO2WMaN/SnO2WMaN?style=for-the-badge)](https://github.com/SnO2WMaN/SnO2WMaN/blob/master/LICENSE)
+![M8mvxQPZoa](https://user-images.githubusercontent.com/15155608/115500272-f1840300-a2ab-11eb-9231-6bf2170ee0cf.gif)
