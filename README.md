@@ -1,5 +1,6 @@
 ![sm2057168](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/dc0b403a-e375-4372-9ce2-c242cd287f36)
 ![sao](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/28b0a4ce-dcaa-4a17-acf5-ed5f6d9401b8)
+![しずえさんとエッチする方法!!!!!!](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/77ddcc80-2c21-4a14-8a57-7a731626fc04)
 ![オタク ヘッドホン](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/6fab283c-7e43-4f8a-836c-67089a54218a)
 ![庶民サンプル](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/11991a40-a3e4-4cef-a362-641fa9d93c3d)
 ![このICO、国宝級](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/485bce23-88db-44c3-99cc-0b867a783efb)
