@@ -9,3 +9,4 @@
 ![聖剣使いの禁呪詠唱](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/08e4ab6a-db54-4cda-bdae-3917736c02e5)
 ![君のパソコンをハッキングしてるからもうちょっと待っててね…](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/b73cf644-03b1-4020-993b-305ee588006b)
 ![逃走中 グレートミッション](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/816164c0-4e3e-4348-919f-ac2de55d118c)
+![まんげなの？](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/5b161846-8c69-47a6-9197-cf22b99d7205)
