@@ -11,14 +11,20 @@ Other information is on [sno2wman.net](https://sno2wman.net) (in Japanese).
 Formalizing mathematical logic by [Lean theorem prover](https://lean-lang.org/).
 Mainly I maintain about modal logic, non-classical propositional logic and provability logic.
 
-w/ @iehality
+w/ [@iehality][github:iehality]
+
+[github:iehality]: https://github.com/iehality
 
 ### [otodb.net](https://otodb.net)
 
 Database for otomad across the various platforms. 
 Repository is private now.
 
-w/ @lachrymaLF, @mmaker-gh, @CHFR-wide
+w/ [@lachrymaLF][github:lachrymaLF], [@mmaker-gh][github:mmaker-gh], [@CHFR-wide][github:CHFR-wide]
+
+[github:lachrymaLF]: https://github.com/lachrymaLF
+[github:mmaker-gh]: https://github.com/mmaker-gh
+[github:CHFR-wide]: https://github.com/CHFR-wide
 
 ## Past projects
 
