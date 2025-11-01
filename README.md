@@ -1,12 +1,30 @@
-![sm2057168](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/dc0b403a-e375-4372-9ce2-c242cd287f36)
-![sao](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/28b0a4ce-dcaa-4a17-acf5-ed5f6d9401b8)
-![しずえさんとエッチする方法!!!!!!](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/77ddcc80-2c21-4a14-8a57-7a731626fc04)
-![オタク ヘッドホン](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/6fab283c-7e43-4f8a-836c-67089a54218a)
-![庶民サンプル](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/11991a40-a3e4-4cef-a362-641fa9d93c3d)
-![このICO、国宝級](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/485bce23-88db-44c3-99cc-0b867a783efb)
-![lain-skates](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/e903130b-5f72-4ce1-bec7-8b706c122bca)
-![あなた今オタクをバカにしましたか！？](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/a1831299-09a0-44fe-82be-0b26ed7881f3)
-![聖剣使いの禁呪詠唱](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/08e4ab6a-db54-4cda-bdae-3917736c02e5)
-![君のパソコンをハッキングしてるからもうちょっと待っててね…](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/b73cf644-03b1-4020-993b-305ee588006b)
-![逃走中 グレートミッション](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/816164c0-4e3e-4348-919f-ac2de55d118c)
-![まんげなの？](https://github.com/SnO2WMaN/SnO2WMaN/assets/15155608/5b161846-8c69-47a6-9197-cf22b99d7205)
+# SnO₂WMaN
+
+Interest: _Logic_, _Theorem Prover_, _Web Development_, _音MAD (otomad)_
+
+Other information is on [sno2wman.net](https://sno2wman.net) (in Japanese).
+
+## Ongoing projects
+
+### [FormalizedFormalLogic/Foundation](https://github.com/FormalizedFormalLogic/Foundation)
+
+Formalizing mathematical logic by [Lean theorem prover](https://lean-lang.org/).
+Mainly I maintain about modal logic, non-classical propositional logic and provability logic.
+
+w/ @iehality
+
+### [otodb.net](https://otodb.net)
+
+Database for otomad across the various platforms. 
+Repository is private now.
+
+w/ @lachrymaLF, @mmaker-gh, @CHFR-wide
+
+## Past projects
+
+Refer to my [repositories](https://github.com/SnO2WMaN?tab=repositories).
+
+### [OTOMADB](https://github.com/otomadb)
+
+Database for otomad by my own version. 
+Spirit of this work is continous in [otodb.net](#otodbnet). 
