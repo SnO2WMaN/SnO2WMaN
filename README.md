@@ -34,3 +34,7 @@ Refer to my [repositories](https://github.com/SnO2WMaN?tab=repositories).
 
 Database for otomad by my own version. 
 Spirit of this work is continous in [otodb.net](#otodbnet). 
+
+## Academic
+
+[ac.sno2wman.net](https://ac.sno2wman.net) (in Japanese)
