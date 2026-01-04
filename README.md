@@ -37,4 +37,7 @@ Spirit of this work is continous in [otodb.net](#otodbnet).
 
 ## Academic
 
-[ac.sno2wman.net](https://ac.sno2wman.net) (in Japanese)
+See [ac.sno2wman.net](https://ac.sno2wman.net) (in Japanese). 
+
+- Slides: https://github.com/stars/SnO2WMaN/lists/my-slides
+- Notes: https://github.com/stars/SnO2WMaN/lists/my-notes
