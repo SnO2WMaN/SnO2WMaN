@@ -17,10 +17,11 @@ w/ [@iehality][github:iehality]
 
 ### [otodb.net](https://otodb.net)
 
-Database for otomad across the various platforms. 
-Repository is private now.
+Database for otomad across the various platforms.
 
 w/ [@lachrymaLF][github:lachrymaLF], [@mmaker-gh][github:mmaker-gh], [@CHFR-wide][github:CHFR-wide]
+
+repo: https://github.com/otoDB/otoDB
 
 [github:lachrymaLF]: https://github.com/lachrymaLF
 [github:mmaker-gh]: https://github.com/mmaker-gh
